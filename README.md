@@ -1,1 +1,3 @@
 # protofolio-series
+
+Developed a comprehensive portfolio website to showcase my professional achievements and technical skills. The site features a detailed CV, an extensive Docker tutorial, and a gallery of projects. The CV section highlights my work experience, skills, and education. The Docker tutorial provides a step-by-step guide to containerization, demonstrating my expertise in deploying applications with Docker. The projects section includes descriptions and links to various projects, showcasing my practical experience and technical proficiency. The website is designed for easy navigation and provides an engaging overview of my capabilities and accomplishments.
